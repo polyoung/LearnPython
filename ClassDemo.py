@@ -7,7 +7,7 @@ from time import sleep
 
 class ClassDemo(object):
     def __init__(self, hour=0, minute=0, second=0):
-        """初始化方法
+        """初始化方法 test
         hour：时
         minute：分
         second：秒
